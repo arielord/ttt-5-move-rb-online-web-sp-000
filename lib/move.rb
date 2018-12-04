@@ -7,3 +7,12 @@ def display_board(board)
 end
 
 # code your input_to_index and move method here!
+def input_to_index(num)
+  if
+  num = num.to_i
+  num -= 1
+end
+
+def move (board, team = "X", num)
+  
+end
